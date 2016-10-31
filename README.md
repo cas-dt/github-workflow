@@ -1,4 +1,4 @@
-# CAS Digital Typography, Webfonts/Type Recherche, Okt 2016
+# Webfonts/Type Recherche, Okt 2016
 
 ## Beni Hefti
 

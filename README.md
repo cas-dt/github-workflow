@@ -174,7 +174,7 @@ Sie ist brauchbar für den Blog mit viel Lauftext und ebenfalls sieht sie auch g
 
 ## Silvio Demuth
 
-### WEBSITES MIT EXPERIMENTELLEN TYPOANWENDUNGEN
+### Websites Mit Experimentellen Typoanwendungen
 
 * [barronwebster.com/](http://barronwebster.com/)
 * [elsewhere.space/1/](http://elsewhere.space/1/)
@@ -195,7 +195,7 @@ Sie ist brauchbar für den Blog mit viel Lauftext und ebenfalls sieht sie auch g
 * [www.sss-nww.org](http://www.sss-nww.org)
 * [www.google.com/trends/hottrends/visualize](https://www.google.com/trends/hottrends/visualize)
 
-### TYPE SPECIMENS (experimentell)
+### Type Specimens (experimentell)
 
 * [www.fontsmith.com/fs-untitled](http://www.fontsmith.com/fs-untitled)
 * [www.new-letters.de/](http://www.new-letters.de/)
@@ -205,24 +205,24 @@ Sie ist brauchbar für den Blog mit viel Lauftext und ebenfalls sieht sie auch g
 * [typespecimens.io/](https://typespecimens.io/)
 * [gt-america.com/](http://gt-america.com/)
 
-### SAMMLUNG ALLER TYPE FOUNDRIES WELTWEIT
+### Sammlung Aller Type Foundries Weltweit
 
 * [type-foundries-archive.com/](http://type-foundries-archive.com/)
 
-### ALLGEMEINE INFOS ZU WEB TYPOGRAPHIE
+### Allgemeine Infos Zu Web Typographie
 
 * [stateofwebtype.com/](http://stateofwebtype.com/)
 * [www.typewolf.com/resources](https://www.typewolf.com/resources)
 * [prowebtype.com/](https://prowebtype.com/) (free online book)
 
-### STORIES/TIPPS ZU WEB TYPOGRAPHIE
+### Stories/Tipps Zu Web Typographie
 
 * [medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902#.hzclixaxm](https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902#.hzclixaxm)
 * [medium.engineering/typography-is-impossible-5872b0c7f891#.2s2cuab5t](https://medium.engineering/typography-is-impossible-5872b0c7f891#.2s2cuab5t)
 * [www.smashingmagazine.com/2016/03/meaningful-web-typography/](https://www.smashingmagazine.com/2016/03/meaningful-web-typography/)
 * [alistapart.com/topic/typography-web-fonts](http://alistapart.com/topic/typography-web-fonts)
 
-### WEBFONT TOOLS
+### Webfont Tools
 
 * [typecast.com/](https://typecast.com/) (Schriften laden/kombinieren/auf Website vergleichen für Schriftentscheidungen)
 * FontExplorer X Pro > Web Preview Tool (Beliebige URL eingeben, Schrift in FontEx auswählen, Preview des Fonts auf Site)

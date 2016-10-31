@@ -193,6 +193,7 @@ Guter Kontrast und hohe x-Höhe ermöglicht eine gute Lesbarkeit, ob es eine kon
 * [lineto.com](lineto.com)
 * [fontfarm.de](fontfarm.de)
 * [binnenland.ch](binnenland.ch)
+
 ## Silvio Demuth
 
 ### WEBSITES MIT EXPERIMENTELLEN TYPOANWENDUNGEN

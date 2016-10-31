@@ -8,9 +8,6 @@
 * [typewolf](https://www.typewolf.com)
 * [fontsquirrel](https://www.fontsquirrel.com)
 * [Iconfinder](https://www.iconfinder.com)
-
-### Gesammelte Links
-
 * [Typtester](https://www.typetester.org/)
 * [Fontawesome](http://fontawesome.io/icons/)
 * [Font Squirrel](https://www.fontsquirrel.com/)
@@ -23,9 +20,7 @@
 
 ## Daniela Spühler
 
-### Auswahl mögliche Fonts
-
-#### Fira Sans
+### Fira Sans
 
 * Synchronisiert mit Typekit (ebenfalls gratis erhältlich bei [Fontsquirrel] (https://www.fontsquirrel.com/fonts/fira-sans) und [Google Fonts] (https://fonts.google.com/specimen/Fira+Sans) oder [hier] (https://github.com/mozilla/Fira) zum downloaden.
 * 32 Schnitte
@@ -36,23 +31,6 @@
 Durch die hohe x-Höhe und den offenen Formen ist sie sehr gut lesbar auf verschieden grossen Bildschirmen. Die hohe Anzahl von Schriftschnitten ermöglicht es eine vielfältige Gestaltung. Es gibt ebenfalls eine Fira Mono mit zwei Schnitten.
 
 Sie ist brauchbar für den Blog mit viel Lauftext und ebenfalls sieht sie auch gut als Navigationsschrift aus.
-
-#### Avenir Next
-
-* Auf verschiedenen Website kann man sie kaufen oder mieten. 
-* Designer: Adrian Frutiger und Akira Kobayashi.
-* Preis bis 250‘000 Aufrufe € 80.– pro Schnitt
-* Auf eigenen Server € 890.–
-
-Guter Kontrast und hohe x-Höhe ermöglicht eine gute Lesbarkeit, ob es eine konstruierte Schrift ist. Sie hat trotz wenig Strichstärken Kontrast etwas weibliches und elegantes an sich.  
-
-#### Iowan Old Style
-
-* Auf verschiedenen Website kann man sie kaufen oder mieten. 
-* Designer: John Downer
-* Preis bis 250‘000 Aufrufe € 39.– pro Schnitt
-* Extra fürs Web gezeichnet (Bitstream)
-* 8 Schnitte
 
 ## Mischa Kreis
 
@@ -248,6 +226,7 @@ Guter Kontrast und hohe x-Höhe ermöglicht eine gute Lesbarkeit, ob es eine kon
 
 * [typecast.com/](https://typecast.com/) (Schriften laden/kombinieren/auf Website vergleichen für Schriftentscheidungen)
 * FontExplorer X Pro > Web Preview Tool (Beliebige URL eingeben, Schrift in FontEx auswählen, Preview des Fonts auf Site)
+
 ## Vanessa Savi
 
 * [House Industries](http://www.houseind.com/)

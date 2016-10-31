@@ -2,119 +2,13 @@
 
 ## Beni Hefti
 
-### Benötigte Schnitte
-
-#### Allgemein
-
-* Navi
-* Service-Navi
-* Footer
-
-### Startseite
-
-* Titel
-* Teaser Spitzmarke
-* Teaser Titel 
-* Teaser Grundtext
-
-#### Inhalt
-
-* Hauptspalte Titel
-* Hauptspalte Grundtext
-* Nebenspalte Titel
-* Nebenspalte Grundtext
-
-#### Kalender
-
-* Monat
-* Tag
-* Titel
-* Inhalt
-* Formular
-
-### Schriften Auswahl
-
-#### Mischung 1
-
-##### Museo Slab
-* Serifenschrift, runde Form, leicht verspielt, serös
-* Jos Buivenga
-* Adobe Typekit
-* Mit Adobe Typekit kostenlos in die Website einbindbar
- 
-##### Open Sans
-* Serifenlose Schrift, klare Form, gut Lesbar in kleine Graden
-* Steve Matteson
-* Googlefonts
-* Kann bei Googlefonts gratis bezogen und in die Website integrierte werden
-
-#### Mischung 2
-
-##### Adobe Caslon
-
-* Text mit einer «klassische» Schrift
-* Carol Twombly (Adobe)
-* Adobe Typekit
-* Mit Adobe Typekit kostenlos in die Website einbindbar
-
-##### Futura
-
-* Kontrast zu Caslon, 
-* Paul Renner (ParaType)
-* Adobe Typekit
-* Mit Adobe Typekit kostenlos in die Website einbindbar
-
-#### Mischung 3
-
-##### Sofia
-
-* Schrift im Stil einer Handschriftlichen Antiqua, verspielt, organisch
-* Latinotype
-* fontssquirrel
-* Kann als OTF-File kostenlos bezogen werden
-
-##### Avenir Next
-
-* Adrian Frutiger, Akira Kobayashi
-* Linotype
-* AUf Website einbindbar, Lizenz-Modell mit Anzahl «klicks»
-
-#### Mischung 4
-
-##### Adelle
-
-* verspielt, aber dennoch schlichte seröse Schrift
-* Veronika Burian, José Scaglione
-* Adobe Typekit
-* Mit Adobe Typekit kostenlos in die Website einbindbar
-
-##### Raleway
-
-* Klar lesbare, freundliche Schrift, runde Formen
-* Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
-* Adobe Typekit
-* Mit Adobe Typekit kostenlos in die Website einbindbar
-
-#### Weiter Mischung (kann nicht mit Sketch getestet werden)
-
-##### Rooney
-
-* Jan Fromm
-* Adobe Typekit
-* Mit Adobe Typekit kostenlos in die Website einbindbar
-
-##### Ratio
-
-* psType
-* Adobe Typekit
-* Mit Adobe Typekit kostenlos in die Website einbindbar
-
 ### Links
 
 * [latinotype](http://www.latinotype.com)
 * [typewolf](https://www.typewolf.com)
 * [fontsquirrel](https://www.fontsquirrel.com)
 * [Iconfinder](https://www.iconfinder.com)
+
 ### Gesammelte Links
 
 * [Typtester](https://www.typetester.org/)
@@ -127,10 +21,7 @@
 * [Typekit](https://typekit.com)
 * [Fira Sans](https://carrois.com/typefaces/FiraSans/##!layout=cascade)
 
-### Textsorten
-
-Shop: Titel, Lauftext, Preise, Sternchentext
-Blog: Titel, Lauftext
+## Daniela Spühler
 
 ### Auswahl mögliche Fonts
 
@@ -162,6 +53,9 @@ Guter Kontrast und hohe x-Höhe ermöglicht eine gute Lesbarkeit, ob es eine kon
 * Preis bis 250‘000 Aufrufe € 39.– pro Schnitt
 * Extra fürs Web gezeichnet (Bitstream)
 * 8 Schnitte
+
+## Mischa Kreis
+
 ### Pines
 
 **Foundry:** TypeType  
@@ -271,19 +165,22 @@ Guter Kontrast und hohe x-Höhe ermöglicht eine gute Lesbarkeit, ob es eine kon
 
 **Foundry:** Swiss Typefaces   
 **Web:** [https://www.swisstypefaces.com/fonts/suisse/info/](https://www.swisstypefaces.com/fonts/suisse/info/)
+
+## Olivier Rieser
+
 ### Links
 
-* https://www.typewolf.com/ 
-* https://www.typewolf.com/top-10-futura-alternatives 
-* http://www.myfonts.com/fonts/urw/neuzeit-grotesk/webfont_preview.html 
-* http://www.swisstypedesign.ch/
-
+* [typewolf.com/](https://www.typewolf.com/)
+* [typewolf.com/top-10-futura-alternatives](https://www.typewolf.com/top-10-futura-alternatives)
+* [myfonts.com/fonts/urw/neuzeit-grotesk/webfont_preview.html](http://www.myfonts.com/fonts/urw/neuzeit-grotesk/webfont_preview.html)
+* [swisstypedesign.ch/](http://www.swisstypedesign.ch/)
 
 ### Seiten in Futura
 
-* http://eastroom.ca/ 
-* http://www.studiolovelock.com/ 
-* https://www.vitra.com/de-ch/home
+* [eastroom.ca](http://eastroom.ca/)
+* [studiolovelock.com](http://www.studiolovelock.com/)
+* [vitra.com](https://www.vitra.com/de-ch/home)
+
 ## Regi Müller
 
 * [uplaod.fr](uplaod.fr)
